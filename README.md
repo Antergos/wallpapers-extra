@@ -1,2 +1,2 @@
-# antergos-wallpapers-extra
+# Antergos Wallpapers (extra)
 User contributed wallpapers
