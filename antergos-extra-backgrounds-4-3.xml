@@ -1,211 +1,256 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
-	<wallpaper>
-    <name>As time goes by</name>
-    <filename>/usr/share/antergos/wallpapers/as_time_goes_by____by_moskanon-d5dgvt8.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-
-  <wallpaper>
-    <name>Early Morning</name>
-    <filename>/usr/share/antergos/wallpapers/early_morning_by_kylekc.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
+<wallpaper>
+<name>25954016810_7db27535ea_o.png</name>
+<filename>/usr/share/antergos/wallpapers-extra/25954016810_7db27535ea_o.png</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
 </wallpaper>
 
-    <wallpaper>
-    <name>Blue</name>
-    <filename>/usr/share/antergos/wallpapers/Blue_by_ElSlunko.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
+<wallpaper>
+<name>25954017190_92d18f0ac3_o.png</name>
+<filename>/usr/share/antergos/wallpapers-extra/25954017190_92d18f0ac3_o.png</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
 </wallpaper>
 
-    <wallpaper>
-    <name>Humble</name>
-    <filename>/usr/share/antergos/wallpapers/humble_by_splendidofsun-d5g47hb.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+<wallpaper>
+<name>25954017820_b49004ab08_o.png</name>
+<filename>/usr/share/antergos/wallpapers-extra/25954017820_b49004ab08_o.png</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
 
-    <wallpaper>
-    <name>83II</name>
-    <filename>/usr/share/antergos/wallpapers/83II_by_bo0xVn.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+<wallpaper>
+<name>25954019180_9b7f65fd33_o.png</name>
+<filename>/usr/share/antergos/wallpapers-extra/25954019180_9b7f65fd33_o.png</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
 
-    <wallpaper>
-    <name>Nikon d40test</name>
-    <filename>/usr/share/antergos/wallpapers/nikon_d40.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+<wallpaper>
+<name>26134448082_916f634273_o.png</name>
+<filename>/usr/share/antergos/wallpapers-extra/26134448082_916f634273_o.png</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
 
-    <wallpaper>
-    <name>The world inside my lens</name>
-    <filename>/usr/share/antergos/wallpapers/the_world_inside_my_lens__by_moskanon-d5fsiqs.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+<wallpaper>
+<name>26160607631_f73ec7bf8a_o.png</name>
+<filename>/usr/share/antergos/wallpapers-extra/26160607631_f73ec7bf8a_o.png</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
 
-  <wallpaper>
-    <name>Grass blur</name>
-    <filename>/usr/share/antergos/wallpapers/Grass_Fullscreen.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+<wallpaper>
+<name>26160612041_3bcdb8fa6a_o.png</name>
+<filename>/usr/share/antergos/wallpapers-extra/26160612041_3bcdb8fa6a_o.png</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
 
-  <wallpaper>
-    <name>Grass</name>
-    <filename>/usr/share/antergos/wallpapers/Grass_by_masha_darkelf666.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+<wallpaper>
+<name>26200983696_7e80d7a0a9_o.png</name>
+<filename>/usr/share/antergos/wallpapers-extra/26200983696_7e80d7a0a9_o.png</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
 
-  <wallpaper>
-    <name>In the grass</name>
-    <filename>/usr/share/antergos/wallpapers/In_the_Grass.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+<wallpaper>
+<name>26200987386_9a522e54b7_o.png</name>
+<filename>/usr/share/antergos/wallpapers-extra/26200987386_9a522e54b7_o.png</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
 
-  <wallpaper>
-    <name>Nautilus</name>
-    <filename>/usr/share/antergos/wallpapers/Nautilus_Fullscreen.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+<wallpaper>
+<name>25615337764_204cf72cec_o.jpg</name>
+<filename>/usr/share/antergos/wallpapers-extra/25615337764_204cf72cec_o.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
 
-  <wallpaper>
-    <name>Autumn Hike</name>
-    <filename>/usr/share/antergos/wallpapers/autumn_hike___plant_details_by_aoiban-d5l7y83.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+<wallpaper>
+<name>25615965964_210dda0519_o.jpg</name>
+<filename>/usr/share/antergos/wallpapers-extra/25615965964_210dda0519_o.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
 
-  <wallpaper>
-    <name>Blossom</name>
-    <filename>/usr/share/antergos/wallpapers/blossom_by_snipes2.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+<wallpaper>
+<name>25617428523_a2408c3f5c_o.jpg</name>
+<filename>/usr/share/antergos/wallpapers-extra/25617428523_a2408c3f5c_o.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
 
-  <wallpaper>
-    <name>Extinction</name>
-    <filename>/usr/share/antergos/wallpapers/extinction_by_signcropstealer-d5j4y84.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+<wallpaper>
+<name>25617464873_1dcbd98bdb_o.jpg</name>
+<filename>/usr/share/antergos/wallpapers-extra/25617464873_1dcbd98bdb_o.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
 
-  <wallpaper>
-    <name>Field</name>
-    <filename>/usr/share/antergos/wallpapers/field_by_stevenfields-d59ap2i.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+<wallpaper>
+<name>25617477943_f90a831921_o.jpg</name>
+<filename>/usr/share/antergos/wallpapers-extra/25617477943_f90a831921_o.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
 
-  <wallpaper>
-    <name>Morning light</name>
-    <filename>/usr/share/antergos/wallpapers/morning_light.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+<wallpaper>
+<name>25617486403_12bd9b96ba_o.jpg</name>
+<filename>/usr/share/antergos/wallpapers-extra/25617486403_12bd9b96ba_o.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
 
-  <wallpaper>
-    <name>Solely</name>
-    <filename>/usr/share/antergos/wallpapers/solely_by_stevenfields.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+<wallpaper>
+<name>25622597933_2b3a2de21c_o.jpg</name>
+<filename>/usr/share/antergos/wallpapers-extra/25622597933_2b3a2de21c_o.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
 
-  <wallpaper>
-    <name>Spiky Drop</name>
-    <filename>/usr/share/antergos/wallpapers/spiky_drop_by_jstainthorpeimages-d5l8ehm.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+<wallpaper>
+<name>25788925303_aa133ec223_o.jpg</name>
+<filename>/usr/share/antergos/wallpapers-extra/25788925303_aa133ec223_o.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
 
-  <wallpaper>
-    <name>antergos Wallpaper</name>
-    <filename>/usr/share/antergos/wallpapers/antergos-wallpaper.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+<wallpaper>
+<name>25947233300_5f7b0b9fd3_o.jpg</name>
+<filename>/usr/share/antergos/wallpapers-extra/25947233300_5f7b0b9fd3_o.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
 
-  <wallpaper>
-    <name>Um pouco de cinza</name>
-    <filename>/usr/share/antergos/wallpapers/um_pouco_de_cinza_by_Mara.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+<wallpaper>
+<name>25966635230_3149b59f4b_o.jpg</name>
+<filename>/usr/share/antergos/wallpapers-extra/25966635230_3149b59f4b_o.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
 
-  <wallpaper>
-    <name>White line</name>
-    <filename>/usr/share/antergos/wallpapers/white_line_by_snipes2.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  
-  <wallpaper>
-    <name>Pacific Night</name>
-    <filename>/usr/share/antergos/wallpapers/c65sk3mshowxrtlljbvh.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  
-  <wallpaper>
-    <name>Sky Full of Stars</name>
-    <filename>/usr/share/antergos/wallpapers/sky_full_of_stars.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
- 
+<wallpaper>
+<name>25996081260_828ed801bc_o.jpg</name>
+<filename>/usr/share/antergos/wallpapers-extra/25996081260_828ed801bc_o.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>26127595302_925d623589_o.jpg</name>
+<filename>/usr/share/antergos/wallpapers-extra/26127595302_925d623589_o.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>26153790401_8a1cb5ebe8_o.jpg</name>
+<filename>/usr/share/antergos/wallpapers-extra/26153790401_8a1cb5ebe8_o.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>26153815091_dfe48c8493_o.jpg</name>
+<filename>/usr/share/antergos/wallpapers-extra/26153815091_dfe48c8493_o.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>26160713801_24d4a27d07_o.jpg</name>
+<filename>/usr/share/antergos/wallpapers-extra/26160713801_24d4a27d07_o.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>26176491152_8aab3e49e2_o.jpg</name>
+<filename>/usr/share/antergos/wallpapers-extra/26176491152_8aab3e49e2_o.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>26194529986_c5b2b11bf7_o.jpg</name>
+<filename>/usr/share/antergos/wallpapers-extra/26194529986_c5b2b11bf7_o.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>26220539475_8b22fff5a6_o.jpg</name>
+<filename>/usr/share/antergos/wallpapers-extra/26220539475_8b22fff5a6_o.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>37_2dark.jpg</name>
+<filename>/usr/share/antergos/wallpapers-extra/37_2dark.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
 </wallpapers>
