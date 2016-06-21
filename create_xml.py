@@ -15,7 +15,10 @@ with open("antergos-extra-backgrounds-4-3.xml", "w") as xml:
 
     for name in file_names:
         xml.write('<wallpaper>\n')
-        xml.write('<name>{}</name>\n'.format(name))
+        human_name = name[:-4]
+        human_name = human_name.replace("-", " ")
+        human_name = human_name.replace("_", " ")
+        xml.write('<name>{}</name>\n'.format(human_name))
         xml.write('<filename>/usr/share/antergos/wallpapers-extra/{}</filename>\n'.format(name))
         xml.write('<options>zoom</options>\n')
         xml.write('<pcolor>#ffffff</pcolor>\n')
