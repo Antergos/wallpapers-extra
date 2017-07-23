@@ -2,8 +2,8 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
 <wallpaper>
-<name>25954016810 7db27535ea o</name>
-<filename>/usr/share/antergos/wallpapers-extra/25954016810_7db27535ea_o.png</filename>
+<name>antergos logo blue everyone</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-logo-blue-everyone.png</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -11,8 +11,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>25954017190 92d18f0ac3 o</name>
-<filename>/usr/share/antergos/wallpapers-extra/25954017190_92d18f0ac3_o.png</filename>
+<name>antergos logo blue smoke</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-logo-blue-smoke.png</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -20,107 +20,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>25954017820 b49004ab08 o</name>
-<filename>/usr/share/antergos/wallpapers-extra/25954017820_b49004ab08_o.png</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>25954019180 9b7f65fd33 o</name>
-<filename>/usr/share/antergos/wallpapers-extra/25954019180_9b7f65fd33_o.png</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>26134448082 916f634273 o</name>
-<filename>/usr/share/antergos/wallpapers-extra/26134448082_916f634273_o.png</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>26160607631 f73ec7bf8a o</name>
-<filename>/usr/share/antergos/wallpapers-extra/26160607631_f73ec7bf8a_o.png</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>26160612041 3bcdb8fa6a o</name>
-<filename>/usr/share/antergos/wallpapers-extra/26160612041_3bcdb8fa6a_o.png</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>26200983696 7e80d7a0a9 o</name>
-<filename>/usr/share/antergos/wallpapers-extra/26200983696_7e80d7a0a9_o.png</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>26200987386 9a522e54b7 o</name>
-<filename>/usr/share/antergos/wallpapers-extra/26200987386_9a522e54b7_o.png</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>25788925303 aa133ec223 o</name>
-<filename>/usr/share/antergos/wallpapers-extra/25788925303_aa133ec223_o.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>25966635230 3149b59f4b o</name>
-<filename>/usr/share/antergos/wallpapers-extra/25966635230_3149b59f4b_o.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>25996081260 828ed801bc o</name>
-<filename>/usr/share/antergos/wallpapers-extra/25996081260_828ed801bc_o.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>26160713801 24d4a27d07 o</name>
-<filename>/usr/share/antergos/wallpapers-extra/26160713801_24d4a27d07_o.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>26176491152 8aab3e49e2 o</name>
-<filename>/usr/share/antergos/wallpapers-extra/26176491152_8aab3e49e2_o.jpg</filename>
+<name>kaffee picture</name>
+<filename>/usr/share/antergos/wallpapers-extra/kaffee-picture.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -247,6 +148,114 @@
 <wallpaper>
 <name>lago verde</name>
 <filename>/usr/share/antergos/wallpapers-extra/lago-verde.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>kaffee</name>
+<filename>/usr/share/antergos/wallpapers-extra/kaffee.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>antergos logo code</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-logo-code.png</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>antergos piano</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-piano.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>antergos fire</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-fire.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>antergos beach</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-beach.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>antergos field</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-field.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>antergos flower</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-flower.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>antergos stripes</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-stripes.png</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>antergos logo blue</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-logo-blue.png</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>antergos logo blue bright</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-logo-blue-bright.png</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>antergos logo mini bw</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-logo-mini-bw.png</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>antergos logo stripes blue</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-logo-stripes-blue.png</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
