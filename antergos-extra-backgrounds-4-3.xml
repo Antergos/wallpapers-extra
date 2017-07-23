@@ -29,6 +29,24 @@
 </wallpaper>
 
 <wallpaper>
+<name>flower</name>
+<filename>/usr/share/antergos/wallpapers-extra/flower.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>antergos organ</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-organ.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
 <name>morning mist</name>
 <filename>/usr/share/antergos/wallpapers-extra/morning-mist.jpg</filename>
 <options>zoom</options>
@@ -173,51 +191,6 @@
 </wallpaper>
 
 <wallpaper>
-<name>antergos piano</name>
-<filename>/usr/share/antergos/wallpapers-extra/antergos-piano.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>antergos fire</name>
-<filename>/usr/share/antergos/wallpapers-extra/antergos-fire.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>antergos beach</name>
-<filename>/usr/share/antergos/wallpapers-extra/antergos-beach.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>antergos field</name>
-<filename>/usr/share/antergos/wallpapers-extra/antergos-field.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>antergos flower</name>
-<filename>/usr/share/antergos/wallpapers-extra/antergos-flower.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
 <name>antergos stripes</name>
 <filename>/usr/share/antergos/wallpapers-extra/antergos-stripes.png</filename>
 <options>zoom</options>
@@ -256,6 +229,33 @@
 <wallpaper>
 <name>antergos logo stripes blue</name>
 <filename>/usr/share/antergos/wallpapers-extra/antergos-logo-stripes-blue.png</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>field</name>
+<filename>/usr/share/antergos/wallpapers-extra/field.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>fire</name>
+<filename>/usr/share/antergos/wallpapers-extra/fire.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>beach</name>
+<filename>/usr/share/antergos/wallpapers-extra/beach.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
