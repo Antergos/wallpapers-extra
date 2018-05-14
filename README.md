@@ -8,6 +8,7 @@ User contributed wallpapers
 - Xose M. [http://xmgz.eu]
 - Digoxinum
 - Reo (Ola Westberg) [http://www.moonrock.net76.net/caferetro/cafe.html]
+- Angel Stojanov [https://forum.antergos.com/user/stojanov]
 
 ## Images
 ![antergos-logo-blue-bright.png](antergos-logo-blue-bright.png)
