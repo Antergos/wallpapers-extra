@@ -2,6 +2,15 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
 <wallpaper>
+<name>antergos logo blue bright</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-logo-blue-bright.png</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
 <name>antergos logo blue everyone</name>
 <filename>/usr/share/antergos/wallpapers-extra/antergos-logo-blue-everyone.png</filename>
 <options>zoom</options>
@@ -20,186 +29,6 @@
 </wallpaper>
 
 <wallpaper>
-<name>kaffee picture</name>
-<filename>/usr/share/antergos/wallpapers-extra/kaffee-picture.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>flower</name>
-<filename>/usr/share/antergos/wallpapers-extra/flower.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>antergos organ</name>
-<filename>/usr/share/antergos/wallpapers-extra/antergos-organ.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>morning mist</name>
-<filename>/usr/share/antergos/wallpapers-extra/morning-mist.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>bee</name>
-<filename>/usr/share/antergos/wallpapers-extra/bee.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>reflection</name>
-<filename>/usr/share/antergos/wallpapers-extra/reflection.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>miracle beach</name>
-<filename>/usr/share/antergos/wallpapers-extra/miracle-beach.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>european reminisce</name>
-<filename>/usr/share/antergos/wallpapers-extra/european-reminisce.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>back alley graffiti</name>
-<filename>/usr/share/antergos/wallpapers-extra/back-alley-graffiti.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>prairie hay</name>
-<filename>/usr/share/antergos/wallpapers-extra/prairie-hay.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>prairie salt</name>
-<filename>/usr/share/antergos/wallpapers-extra/prairie-salt.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>ebook cover</name>
-<filename>/usr/share/antergos/wallpapers-extra/ebook-cover.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>looking up</name>
-<filename>/usr/share/antergos/wallpapers-extra/looking-up.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>paws</name>
-<filename>/usr/share/antergos/wallpapers-extra/paws.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>purple</name>
-<filename>/usr/share/antergos/wallpapers-extra/purple.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>open shell</name>
-<filename>/usr/share/antergos/wallpapers-extra/open-shell.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>lago verde</name>
-<filename>/usr/share/antergos/wallpapers-extra/lago-verde.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>kaffee</name>
-<filename>/usr/share/antergos/wallpapers-extra/kaffee.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>antergos logo code</name>
-<filename>/usr/share/antergos/wallpapers-extra/antergos-logo-code.png</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>antergos stripes</name>
-<filename>/usr/share/antergos/wallpapers-extra/antergos-stripes.png</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
 <name>antergos logo blue</name>
 <filename>/usr/share/antergos/wallpapers-extra/antergos-logo-blue.png</filename>
 <options>zoom</options>
@@ -209,8 +38,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>antergos logo blue bright</name>
-<filename>/usr/share/antergos/wallpapers-extra/antergos-logo-blue-bright.png</filename>
+<name>antergos logo code</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-logo-code.png</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -236,6 +65,69 @@
 </wallpaper>
 
 <wallpaper>
+<name>antergos organ</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-organ.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>antergos stripes</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-stripes.png</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>back alley graffiti</name>
+<filename>/usr/share/antergos/wallpapers-extra/back-alley-graffiti.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>beach</name>
+<filename>/usr/share/antergos/wallpapers-extra/beach.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>bee</name>
+<filename>/usr/share/antergos/wallpapers-extra/bee.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>ebook cover</name>
+<filename>/usr/share/antergos/wallpapers-extra/ebook-cover.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>european reminisce</name>
+<filename>/usr/share/antergos/wallpapers-extra/european-reminisce.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
 <name>field</name>
 <filename>/usr/share/antergos/wallpapers-extra/field.jpg</filename>
 <options>zoom</options>
@@ -254,8 +146,143 @@
 </wallpaper>
 
 <wallpaper>
-<name>beach</name>
-<filename>/usr/share/antergos/wallpapers-extra/beach.jpg</filename>
+<name>flower</name>
+<filename>/usr/share/antergos/wallpapers-extra/flower.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>kaffee picture</name>
+<filename>/usr/share/antergos/wallpapers-extra/kaffee-picture.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>kaffee</name>
+<filename>/usr/share/antergos/wallpapers-extra/kaffee.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>lago verde</name>
+<filename>/usr/share/antergos/wallpapers-extra/lago-verde.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>looking up</name>
+<filename>/usr/share/antergos/wallpapers-extra/looking-up.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>miracle beach</name>
+<filename>/usr/share/antergos/wallpapers-extra/miracle-beach.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>morning mist</name>
+<filename>/usr/share/antergos/wallpapers-extra/morning-mist.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>open shell</name>
+<filename>/usr/share/antergos/wallpapers-extra/open-shell.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>paws</name>
+<filename>/usr/share/antergos/wallpapers-extra/paws.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>prairie hay</name>
+<filename>/usr/share/antergos/wallpapers-extra/prairie-hay.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>prairie salt</name>
+<filename>/usr/share/antergos/wallpapers-extra/prairie-salt.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>purple</name>
+<filename>/usr/share/antergos/wallpapers-extra/purple.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>reflection</name>
+<filename>/usr/share/antergos/wallpapers-extra/reflection.jpg</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>antergos shadow</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-shadow.png</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>antergos simple</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-simple.png</filename>
+<options>zoom</options>
+<pcolor>#ffffff</pcolor>
+<scolor>#ffffff</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+
+<wallpaper>
+<name>antergos wood</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-wood.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
