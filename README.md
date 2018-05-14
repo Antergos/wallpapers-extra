@@ -39,3 +39,6 @@ User contributed wallpapers
 ![prairie-salt.jpg](prairie-salt.jpg)
 ![purple.jpg](purple.jpg)
 ![reflection.jpg](reflection.jpg)
+![antergos-shadow.png](antergos-shadow.png)
+![antergos-simple.jpg](antergos-simple.jpg)
+![antergos-wood.jpg](antergos-wood.jpg)

@@ -272,8 +272,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>antergos simple</name>
-<filename>/usr/share/antergos/wallpapers-extra/antergos-simple.png</filename>
+<name>antergos wood</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-wood.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -281,8 +281,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>antergos wood</name>
-<filename>/usr/share/antergos/wallpapers-extra/antergos-wood.jpg</filename>
+<name>antergos simple</name>
+<filename>/usr/share/antergos/wallpapers-extra/antergos-simple.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
